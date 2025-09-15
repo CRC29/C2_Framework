@@ -29,3 +29,5 @@ This is a simple Command & Control (C2) framework built for educational purposes
 ## Disclaimer
 
 This project is for learning purposes only. Do not misuse it for unethical or illegal activities. Use it responsibly and in controlled environments.
+
+# C2_Framework
